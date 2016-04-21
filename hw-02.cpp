@@ -1,12 +1,11 @@
 ////////////////////////////////////////////////////////////////////////////////
-// @file hw-02.tex
+// @file main.cpp
 // @mainpage
-// @author Joe Bruin
-// @date 2016-03-31
+// @author Michael Hess
+// @date 2016-04-09
 //
-// Description: [You supply the details!]
+// Description: Example implementation of Integer and SignedInteger class
 //
-// Known bugs: None so far!
 ////////////////////////////////////////////////////////////////////////////////
 
 #include <iostream>
